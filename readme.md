@@ -30,6 +30,7 @@ Utilize esta aplicação para validar um Cartão de Cidadão e obter uma credenc
 bash
 
 cd RegistoClient
+
 dotnet run
 
 Input: Insira um número de CC .
@@ -41,6 +42,7 @@ Utilize esta aplicação para exercer o direito de voto e consultar o apuramento
 bash
 
 cd VotacaoClient
+
 dotnet run
 
 Opção 1: Liste os candidatos para saber os seus IDs.
@@ -52,3 +54,4 @@ Opção 3: Consulte a tabela de resultados em tempo real.
 Servidor: ken01.utad.pt
 Porta: 9091
 Protocolo: http 
+
