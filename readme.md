@@ -28,7 +28,7 @@ dotnet restore VotacaoClient
 
 O fluxo recomendado de teste é: Obter Credencial -> Votar -> Ver Resultados.
 
-### Cliente de Registo (AR)
+### 1. Cliente de Registo (AR)
 
 Utilize esta aplicação para validar um Cartão de Cidadão e obter uma credencial de voto anónima.
 
@@ -64,6 +64,7 @@ Servidor: ken01.utad.pt
 Porta: 9091
 
 Protocolo: http 
+
 
 
 
