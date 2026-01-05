@@ -60,7 +60,10 @@ Opção 3: Consulte a tabela de resultados em tempo real.
 ## Endpoint e Conexão
 
 Servidor: ken01.utad.pt
+
 Porta: 9091
+
 Protocolo: http 
+
 
 
